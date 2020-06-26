@@ -59,7 +59,6 @@ class Example(QMainWindow):
         # settingAction = QAction(QIcon('./assets/img/setting.png'), '设置', self)
         # settingAction.setShortcut('Ctrl+S')
         # settingAction.setStatusTip('设置')
-
         homeAction =QAction(QIcon('./assets/img/home.png'), '主页', self)
         homeAction.setShortcut('Ctrl+H')
         homeAction.setStatusTip('主页')

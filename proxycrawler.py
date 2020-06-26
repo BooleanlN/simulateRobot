@@ -15,7 +15,7 @@ def proxy_pool():
     return proxy_list
 
 def request_web(proxy_list):
-    host = "http://zzx.ouchn.edu.cn/edu/"
+    host = "http://zzx.ouchn.edu.cn/edu/public/student/#/login"
     url = "api/student/login"
     s = requests.Session()
     data = {

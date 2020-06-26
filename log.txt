@@ -383,3 +383,99 @@ from unknown error: web view not found
   (Session info: chrome=81.0.4044.113)
 
 2020-04-17 22:32:26	账号130533198207254834因账号错误退出
+2020-04-23 12:08:11	上传学生数据
+2020-04-23 12:08:22	start....42900519920323136X
+2020-04-23 12:08:35	账号42900519920323136X出现Nosuchwindow异常：Message: no such window: window was already closed
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:08:35	账号42900519920323136X因账号错误退出
+2020-04-23 12:08:36	start....42900519920323136X
+2020-04-23 12:08:52	账号42900519920323136X出现Nosuchwindow异常：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:08:52	账号42900519920323136X因账号错误退出
+2020-04-23 12:08:56	start....422201198607166810
+2020-04-23 12:09:23	账号422201198607166810出现Nosuchwindow异常：Message: no such window: window was already closed
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:09:23	账号422201198607166810因账号错误退出
+2020-04-23 12:09:26	start....429005199101161401
+2020-04-23 12:09:54	账号429005199101161401出现Nosuchwindow异常：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:09:54	账号429005199101161401因账号错误退出
+2020-04-23 12:09:55	start....429005199101161401
+2020-04-23 12:10:19	账号429005199101161401出现Nosuchwindow异常：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:10:19	账号429005199101161401因账号错误退出
+2020-04-23 12:10:50	start....429005199101161401
+2020-04-23 12:11:06	账号429005199101161401出现Nosuchwindow异常：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:11:06	账号429005199101161401因账号错误退出
+2020-04-23 12:11:07	start....130533198207254834
+2020-04-23 12:11:27	账号130533198207254834出现Nosuchwindow异常：Message: no such window: window was already closed
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:11:27	账号130533198207254834因账号错误退出
+2020-04-23 12:11:34	start....422827198409231868
+2020-04-23 12:11:35	设置学生郝旭看视频个数为
+2020-04-23 12:12:09	账号422827198409231868出现Nosuchwindow异常：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:12:09	账号422827198409231868因账号错误退出
+2020-04-23 12:12:13	start....422827198803241829
+2020-04-23 12:12:32	账号422827198803241829出现Nosuchwindow异常：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:12:32	账号422827198803241829因账号错误退出
+2020-04-23 12:12:37	start....429005199101161401
+2020-04-23 12:12:50	账号429005199101161401出现Nosuchwindow异常：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:12:50	账号429005199101161401因账号错误退出
+2020-04-23 12:12:58	start....42900519920323136X
+2020-04-23 12:13:10	账号42900519920323136X出现Nosuchwindow异常：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:13:10	账号42900519920323136X因账号错误退出
+2020-04-23 12:13:12	设置学生吴睿看视频个数为
+2020-04-23 12:13:12	start....422201198607166810
+2020-04-23 12:13:26	账号422201198607166810出现异常：Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=81.0.4044.113)
+
+2020-04-23 12:13:26	账号422201198607166810因账号错误退出
+2020-04-23 12:13:43	422201198607166810开始学习
+2020-04-23 12:13:43	42900519920323136X开始学习
+2020-04-23 12:13:43	429005199101161401开始学习
+2020-04-23 12:13:43	422827198803241829开始学习
+2020-04-23 12:13:43	422827198409231868开始学习
+2020-04-23 12:13:43	130533198207254834开始学习
+2020-04-23 12:13:43	429005199101161401开始学习
+2020-04-23 12:13:43	429005199101161401开始学习
+2020-04-23 12:13:43	429005199101161401开始学习
+2020-04-23 12:13:43	422201198607166810开始学习
+2020-04-23 12:13:43	42900519920323136X开始学习
+2020-04-23 12:13:43	42900519920323136X开始学习
+2020-04-28 21:10:21	上传学生数据
+2020-04-28 21:16:09	上传学生数据
+2020-05-26 22:29:29	上传学生数据
+2020-05-26 22:29:33	start....130533198207254834
+2020-05-26 22:30:03	账号130533198207254834出现异常：'NoneType' object has no attribute 'location'
+2020-05-26 22:30:03	账号130533198207254834因账号错误退出
+2020-05-26 22:32:43	130533198207254834开始学习
+2020-06-23 15:39:36	上传学生数据
+2020-06-23 15:39:44	start....130533198207254834
+2020-06-23 15:39:46	账号130533198207254834出现异常：Message: session not created: This version of ChromeDriver only supports Chrome version 81
+
+2020-06-23 15:39:46	账号130533198207254834因账号错误退出
+2020-06-23 15:49:41	130533198207254834开始学习
